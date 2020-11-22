@@ -1,5 +1,8 @@
 NasAcademy Assignment
 
+Start the Server
+## sudo npm start
+
 Backend Project, consists of 4 Endpoints.
 ##  "/createLotSpace"
 ##  "/parkCar"  
